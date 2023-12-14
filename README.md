@@ -79,10 +79,12 @@ body {
 </body>
 </html>
 ```
+
 # OUTPUT:
 ![Alt text](image.png)
 ![Alt text](image-1.png)
  ![Alt text](image-2.png)
+
 
 # QUESTION 2: 
 # AIM:
@@ -135,9 +137,11 @@ End the HTML code by closing the open tags.
 </body>
 </html>
 ```
+
 # OUTPUT:
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
+
 
 
 # QUESTION 3: ORIENTATION-BASED MEDIA QUERY
@@ -191,6 +195,7 @@ End the HTML code by closing the open tags.
 </body>
 </html>
 ```
+
 # OUTPUT:
 ![Alt text](image-5.png)
 ![Alt text](image-6.png)
@@ -267,6 +272,7 @@ End the HTML code by closing the open tags.
 </body>
 </html>
 ```
+
 # OUTPUT:
 ![Alt text](image-8.png)
 ![Alt text](<Screenshot 2023-12-14 214940.png>)
@@ -394,6 +400,7 @@ li><a href="https://www.w3schools.com/python/default.asp">PYTHON</a></li>
 </body>
 </html>
 ```
+
 # OUTPUT:
 ![Alt text](image-11.png)
 ![Alt text](image-12.png)
