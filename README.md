@@ -36,8 +36,7 @@ In your HTML file, add your webpage content within the body tag.
 End the HTML code by closing the open tags.
 
 # CODE:
-```
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <head>
 <title>Question 1:</title>
